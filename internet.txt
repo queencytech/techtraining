@@ -1,0 +1,1 @@
+In summary of the internet class, we covered the fundamental concepts of how the internet works. we discussed the architecture, protocols, and the role of various entities like ISPs and DNS servers. Additionally, we explored the concept of IP addresses,explaining that it is a global networkof interconnected computers communicating through standadized protocols
