@@ -1,0 +1,1 @@
+Github is a web-based platform for version control using git. It is a website where you can post your repositories, collaborate with other users and discover other open source repositories. It is also the most popular place to store your remote repositories. 

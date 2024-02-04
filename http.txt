@@ -1,0 +1,1 @@
+hyper text transfer protocol is the backbone of the internet. it has the following important feautures:client server model, stateless protocol; every transaction you make is independent and it is not related to any other  transaction, application layer control; it uses TCP as its transport level protocol.
